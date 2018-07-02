@@ -1,4 +1,4 @@
-#Spring Boot Application
+#S pring Boot Application
 
 The aim of this project is to enhance my knowledge of REST APIs and what better way to learn than by writing one myself. I am going to use Spring Boot for this purpose. 
 
